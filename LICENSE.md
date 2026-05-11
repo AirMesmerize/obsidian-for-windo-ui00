@@ -1,4 +1,4 @@
-
+new Obsidian for Windows Extension | voice-notes + export-options is the best Obsidian for Windows extension, featuring voice-notes and export-options. Powerful, efficient, and
 
 
 
